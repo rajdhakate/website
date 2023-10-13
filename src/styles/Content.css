@@ -1,0 +1,10 @@
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  left: 0;
+  justify-content: center;
+  height: 100vh;
+  padding: 5% 10%;
+}
